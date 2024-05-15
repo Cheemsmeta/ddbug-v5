@@ -10,15 +10,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "15202238877","919339619072"
-global.ownername = "꧁﴿☬✞ 𝔇𝔢𝔟𝔞𝔰𝔥𝔦𝔰 𝔇𝔢𝔶 ✞☬﴾꧂™"
+global.ownernomer = "22389520946"
+global.ownername = " 𝔇𝔢𝔟𝔞𝔰𝔥𝔦𝔰 𝔇𝔢𝔶™"
 global.ytname = "YT: No YT Channel"
 global.socialm = "GitHub: DebashisX1"
 global.location = "Nalhati, Birbhum, WB, INDIA"
 
-global.ownernumber = '919339619072'  //creator number
-global.ownername = '꧁﴿☬✞ 𝔇𝔢𝔟𝔞𝔰𝔥𝔦𝔰 𝔇𝔢𝔶 ✞☬﴾꧂™' //owner name
-global.botname = '꧁﴿·⁎̩͙ ⁑̩͙̩͙ ⁂̩̩͙»✥«·-𝕯𝕯 𝕭𝖀𝕲 𝕭𝖔𝖙-·»✥«⁂̩̩͙͙ ⁑̩͙̩͙ ⁎̩͙.·﴾꧂' //name of the bot
+global.ownernumber = '22389520946'  //creator number
+global.ownername = '☬ 𝔇𝔢𝔟𝔞𝔰𝔥𝔦𝔰 𝔇𝔢𝔶 ☬™' //owner name
+global.botname = 'BBV5' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
